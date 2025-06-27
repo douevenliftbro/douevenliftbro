@@ -5,7 +5,7 @@
 
 <!-- Profile Header: centered image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/douevenliftbro/douevenliftbro/9ffed3af4cb6bc8dcf3a0cee627b5461166349b4/Driver-and-Dog_Sunset.png"
+  <img src="https://github.com/douevenliftbro/douevenliftbro/blob/main/Driver-and-Dog_Sunset"
        alt="Driver and Dog at Sunset"
        width="600" />
 </p>
