@@ -30,6 +30,9 @@
 
 <p align="center">
 I am a hobby sim racer that is dabbling into Software Engineering aiming to explore and learn what is possible to do in terms of leveraging telemetry data with simple formulas, complex ones and also using ML plus even NN in projects related to iRacing specifically.
+</p>  
+<p align="center">
+Next to me is the wonderful Mokka, an Australian Shepard, who loves nothing more than to bother me when I am busy.
 </p>
 
 ---
@@ -40,5 +43,5 @@ I am a hobby sim racer that is dabbling into Software Engineering aiming to expl
 
 <!-- Optional: visitor badge -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mrt9tv.mrt9tv" alt="Visitor Count" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mrt9tv" alt="Visitor Count" />
 </p>
