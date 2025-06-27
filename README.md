@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h1 align="center">Welcome to the MRT#9 GitHub page! 👋</h1>
+<h1 align="center">Welcome to the MRT#9 GitHub page</h1>
 
 <p align="center">
 I am a hobby sim racer that is dabbling into Software Engineering aiming to explore and learn what is possible to do in terms of leveraging telemetry data with simple formulas, complex ones and also using ML plus even NN in projects related to iRacing specifically.
@@ -35,10 +35,10 @@ I am a hobby sim racer that is dabbling into Software Engineering aiming to expl
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douevenliftbro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrt9tv&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </p>
 
 <!-- Optional: visitor badge -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=douevenliftbro.douevenliftbro" alt="Visitor Count" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mrt9tv.mrt9tv" alt="Visitor Count" />
 </p>
