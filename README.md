@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://github.com/douevenliftbro/douevenliftbro/blob/main/Driver-and-Dog_Sunset"
        alt="Driver and Dog at Sunset"
-       width="600" />
+       width="300" />
 </p>
 
 <!-- Badges: add your status and skills badges -->
@@ -15,28 +15,17 @@
   <a href="https://github.com/douevenliftbro">
     <img src="https://img.shields.io/badge/douevenliftbro-GitHub-blue?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
-  <!-- Update your LinkedIn profile link -->
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  <!-- Update your Instagramprofile link -->
+  <a href="https://www.instagram.com/afhverjuekki.tv/">
+    <img src="https://img.shields.io/badge/Instagram-blue?logo=linkedin&style=for-the-badge" alt="Instagram" />
   </a>
 </p>
 
-<h1 align="center">Hi, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hi, I'm Pimpos! 👋</h1>
 
 <p align="center">
-  I am a Software Engineer with a passion for building scalable web applications, machine learning projects, and open-source contributions.
+  I am a hobby sim racer that is dabbling into Software Engineering aiming to explore and learn what is possible to do in terms of leveraging telemetry data with simple formulas, complex ones and also using ML plus even NN in projects related to iRacing specifically.
 </p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on **Project X**, a cutting-edge app that ...
-- 🌱 Learning **Kubernetes** and **Go**
-- 👯 Looking to collaborate on **open-source ML frameworks**
-- 💬 Ask me about **JavaScript**, **React**, and **Docker**
-- 📫 Reach me: [Email me](mailto:youremail@example.com)
-- ⚡ Fun fact: I once backpacked across 10 countries with my dog 🐶
 
 ---
 
