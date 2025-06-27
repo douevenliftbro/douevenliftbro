@@ -18,11 +18,11 @@
   </a>
   <!-- Discord -->
   <a href="https://img.shields.io/discord/:1332129006853554329">
-    <img src="https://img.shields.io/badge/Discord-teal?logo=Discord&style=for-the-badge" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Discord-lightgrey?logo=Discord&style=for-the-badge" alt="Instagram" />
   </a>
   <!-- Update your Instagram profile link -->
   <a href="https://www.instagram.com/mrt9tv/">
-    <img src="https://img.shields.io/badge/Instagram-teal?logo=Instagram&style=for-the-badge" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-orange?logo=Instagram&style=for-the-badge" alt="Instagram" />
   </a>
 </p>
 
