@@ -1,4 +1,3 @@
-```markdown
 <!--
   🔥 GitHub Profile README
   Customize this file to showcase your work, skills, and personality.
@@ -16,31 +15,40 @@
   <a href="https://github.com/douevenliftbro">
     <img src="https://img.shields.io/badge/douevenliftbro-GitHub-blue?logo=github&style=for-the-badge" alt="GitHub" />
   </a>
+  <!-- Update your LinkedIn profile link -->
   <a href="https://www.linkedin.com/in/yourprofile/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
 
-# Hi, I'm Your Name! 👋
+<h1 align="center">Hi, I'm [Your Name]! 👋</h1>
 
-I am a Software Engineer with a passion for building scalable web applications, machine learning projects, and open-source contributions. Here’s a quick overview of what I do:
+<p align="center">
+  I am a Software Engineer with a passion for building scalable web applications, machine learning projects, and open-source contributions.
+</p>
 
-- 🔭 I’m currently working on **Project X**, a cutting-edge app that ...
-- 🌱 I’m learning **Kubernetes** and **Go**
-- 👯 I’m looking to collaborate on **open-source ML frameworks**
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **Project X**, a cutting-edge app that ...
+- 🌱 Learning **Kubernetes** and **Go**
+- 👯 Looking to collaborate on **open-source ML frameworks**
 - 💬 Ask me about **JavaScript**, **React**, and **Docker**
-- 📫 How to reach me: [Email me](mailto:youremail@example.com)
+- 📫 Reach me: [Email me](mailto:youremail@example.com)
 - ⚡ Fun fact: I once backpacked across 10 countries with my dog 🐶
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" /></code>
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" />
+</p>
 
 ---
 
@@ -55,9 +63,11 @@ I am a Software Engineer with a passion for building scalable web applications, 
 ## 🔗 Connect with me
 
 <p align="center">
+  <!-- Update your Twitter handle -->
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
+  <!-- Update your LinkedIn profile link and name -->
   <a href="https://www.linkedin.com/in/yourprofile/">
     <img src="https://img.shields.io/badge/LinkedIn-Your%20Name-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
@@ -69,5 +79,3 @@ I am a Software Engineer with a passion for building scalable web applications, 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=douevenliftbro.douevenliftbro" alt="Visitor Count" />
 </p>
-
-```
