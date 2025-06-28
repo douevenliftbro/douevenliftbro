@@ -21,7 +21,7 @@
 <h1 align="center">Welcome to the MRT#9 GitHub page</h1>
 
 <p align="center">
-I am a hobby sim racer that is dabbling into Software Engineering aiming to explore and learn what is possible to do in terms of leveraging telemetry data with simple formulas, complex ones and also using ML plus even NN in projects related to iRacing specifically.
+I am a hobby sim racer that is dabbling into Software Engineering aiming to explore and learn what is possible to do in terms of leveraging telemetry data with simple formulas, complex ones and more.
 </p>  
 <p align="center">
 Next to me is the wonderful Mokka, an Australian Shepard, who loves nothing more than to bother me when I am busy.
@@ -30,10 +30,5 @@ Next to me is the wonderful Mokka, an Australian Shepard, who loves nothing more
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrt9tv&show_icons=true&theme=gotham" alt="GitHub Stats" />
-</p>
-
-<!-- Optional: visitor badge -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mrt9tv" alt="Visitor Count" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrt9tv&show_icons=true&theme=gotham&hide_border=true&icon_color=FF8B5C&title_color=008080&text_color=008080" alt="GitHub Stats" />
+</p
